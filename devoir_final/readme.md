@@ -5,13 +5,17 @@ Ce projet est une page HTML simple qui présente ma collection de voitures préf
 **Mon Contenu**
 
 *index.html : La page principale qui affiche la collection de voitures.
+
 *styles.css : Le fichier CSS contenant les styles et la mise en page.
+
 *images/ : Le répertoire contenant les images des voitures.
 
 **Comment Utiliser**
 
 *Clonez ou téléchargez ce référentiel sur votre ordinateur.
+
 *Ouvrez le fichier index.html dans votre navigateur web préféré pour accéder à la page de la collection de voitures
+
 *Parcourez la collection en utilisant la barre de défilement pour voir toutes les voitures.
 
 **Personnalisation**
