@@ -23,7 +23,9 @@ Ce projet est une page HTML simple qui présente ma collection de voitures préf
 Vous pouvez personnaliser cette page pour y ajouter votre propre collection de voitures en suivant ces étapes :
 
 1- Remplacez les images dans le dossier images/ par les images de vos propres voitures. Assurez-vous que les noms de fichier correspondent aux noms de voiture dans le fichier index.html.
+
 2- Modifiez le fichier index.html pour mettre à jour les informations sur chaque voiture. Vous pouvez ajouter ou supprimer des voitures en copiant ou supprimant les blocs HTML correspondants.
+
 3- Si vous souhaitez personnaliser davantage le style de la page, vous pouvez modifier le fichier styles.css.
 
 **Auteur**
