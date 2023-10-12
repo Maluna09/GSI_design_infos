@@ -1,4 +1,4 @@
-**Ma Collection de Voitures**[color=#26B260]texte coloré en vert[/color]
+**Ma Collection de Voitures** [color=#26B260]texte coloré en vert[/color]
 Ce projet est une page HTML simple qui présente ma collection de voitures préférées. Il a été créé dans le but de partager ma passion pour les voitures et de fournir des informations de base sur chaque modèle de ma collection.
 
 **Mon Contenu**[color=#32a852]
