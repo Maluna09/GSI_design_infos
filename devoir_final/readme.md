@@ -4,7 +4,7 @@ Ce projet est une page HTML simple qui présente ma collection de voitures préf
 
 **Mon Contenu**
 
-*index.html : La page principale qui affiche la collection de voitures.
+1-index.html : La page principale qui affiche la collection de voitures.
 
 *styles.css : Le fichier CSS contenant les styles et la mise en page.
 
