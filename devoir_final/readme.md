@@ -8,7 +8,7 @@ Ce projet est une page HTML simple qui présente ma collection de voitures préf
 
 2- styles.css : Le fichier CSS contenant les styles et la mise en page.
 
-3- images/ : Le répertoire contenant les images des voitures.
+3- images : Le répertoire contenant les images des voitures.
 
 **Comment Utiliser**
 
